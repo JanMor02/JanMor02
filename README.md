@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A 20-year-old software developer with a focus on .NET/Blazor</h3>
 
-- 💬 Ask me about **everything. But do not expect that I have an answer for everything!**
+- 🔭 I’m currently working on [my personal website](https://jan-morstadt.com/Home)
 
-- ⚡ Fun fact **My friends Call me Papa Bär**
+- 👨‍💻 All of my public projects are available at [https://jan-morstadt.com/Projects/Public](https://jan-morstadt.com/Projects/Public)
+
+- 👨‍💻 All of my private projects are available at [https://jan-morstadt.com/Projects/Private/](https://jan-morstadt.com/Projects/Private/)
+
+-        👉 You will need a code, just ask for it :)
+- ⚡ Fun fact **my friends call me "Papa Bär"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

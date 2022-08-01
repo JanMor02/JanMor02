@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A 20-year-old software developer with a focus on .NET/Blazor</h3>
+<h3 align="center">A 20-year software developer currently focused on .NET/Blazor</h3>
 
 - 🔭 I’m currently working on [my personal website](https://jan-morstadt.com/Home)
 

@@ -6,8 +6,8 @@
 - 👨‍💻 All of my public projects are available at [https://jan-morstadt.com/Projects/Public](https://jan-morstadt.com/Projects/Public)
 
 - 👨‍💻 All of my private projects are available at [https://jan-morstadt.com/Projects/Private/](https://jan-morstadt.com/Projects/Private/)
+- 👉 You will need a code for the private projects, just search for it on my profile :)
 
--        👉 You will need a code, just ask for it :)
 - ⚡ Fun fact **my friends call me "Papa Bär"**
 
 <h3 align="left">Connect with me:</h3>

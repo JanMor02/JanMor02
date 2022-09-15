@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A 20-year software developer currently focused on .NET/Blazor</h3>
 
-- 🔭 I’m currently working on [my personal website](https://jan-morstadt.com/Home)
+- 🔭 I’m currently working on [my personal website](https://j4n.coffee/Home)
 
-- 👨‍💻 All of my public projects are available at [https://jan-morstadt.com/Projects/Public](https://jan-morstadt.com/Projects/Public)
+- 👨‍💻 All of my public projects are available at [https://j4n.coffee/Projects/Public](https://j4n.coffee/Projects/Public)
 
-- 👨‍💻 All of my private projects are available at [https://jan-morstadt.com/Projects/Private/](https://jan-morstadt.com/Projects/Private/)
+- 👨‍💻 All of my private projects are available at [https://j4n.coffee/Projects/Private/](https://j4n.coffee/Projects/Private/)
 - 👉 You will need a code for the private projects, just search for it on my profile :)
 
 - ⚡ Fun fact **my friends call me "Papa Bär"**
